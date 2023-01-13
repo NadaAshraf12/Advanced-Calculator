@@ -1,0 +1,19 @@
+﻿  Advanced calculator.cpp
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(60,5): warning C4060: switch statement contains no 'case' or 'default' labels
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(34,5): warning C4102: 'case1': unreferenced label
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(37,5): warning C4102: 'case2': unreferenced label
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(40,5): warning C4102: 'case3': unreferenced label
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(43,5): warning C4102: 'case4': unreferenced label
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(46,5): warning C4102: 'case5': unreferenced label
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(49,5): warning C4102: 'case6': unreferenced label
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(52,5): warning C4102: 'case7': unreferenced label
+D:\Coding\play with c++ & c\Advanced calculator\Advanced calculator\Advanced calculator.cpp(55,5): warning C4102: 'case8': unreferenced label
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl sum(void)" (?sum@@YAXXZ) referenced in function main
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl sub(void)" (?sub@@YAXXZ) referenced in function main
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl multiplication(void)" (?multiplication@@YAXXZ) referenced in function main
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl division(void)" (?division@@YAXXZ) referenced in function main
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl square(void)" (?square@@YAXXZ) referenced in function main
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl cube(void)" (?cube@@YAXXZ) referenced in function main
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl powers(void)" (?powers@@YAXXZ) referenced in function main
+Advanced calculator.obj : error LNK2019: unresolved external symbol "void __cdecl squareRoot(void)" (?squareRoot@@YAXXZ) referenced in function main
+D:\Coding\play with c++ & c\Advanced calculator\x64\Debug\Advanced calculator.exe : fatal error LNK1120: 8 unresolved externals
